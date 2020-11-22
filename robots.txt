@@ -1,2 +1,9 @@
 User-agent: *
-Sitemap: http://turquoise-rook.cloudvent.net//sitemap.xml
+Sitemap: https://ktmjb-steel.com/sitemap.xml
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow: /301.txt
+Disallow: /404.html
